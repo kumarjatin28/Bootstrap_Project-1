@@ -1,0 +1,13 @@
+.navbar-dark .navbar-nav .nav-link{
+    color: white !important;
+    font-weight: 400;
+}
+
+#carouselExampleCaptions img{
+    height: 400px;
+}
+
+.links_me li{
+    list-style-type: none;
+    cursor: pointer;
+}
